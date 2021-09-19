@@ -1,0 +1,11 @@
+Library/
+Temp/
+Logs/
+*.sln
+*.csproj
+.vs/
+obj/
+Packages/packages-lock.json
+ProjectSettings/PackageManagerSettings.asset
+ProjectSettings/ProjectVersion.txt
+UserSettings/EditorUserSettings.asset
